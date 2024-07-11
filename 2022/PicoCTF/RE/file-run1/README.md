@@ -19,9 +19,10 @@ $ ls -la
 drwxrwxr-x  2 fakevapour fakevapour  4096 Jul 11 15:30 img
 -rwxr-xr-x  1 fakevapour fakevapour 16736 Mar 16  2023 run
 ```
-File permission allows for program execution. Which will give us the flag. We can grant permission with
+File permission allows for program execution. We can grant permission with
 ```bash
 $ chmod +x run
 ```
- 
+ The flag is given to us.
+ ![alt text](https://github.com/HackerTyperAbuser/CTF_Writeups/blob/main/2022/PicoCTF/RE/file-run1/filerun1.png)
 
