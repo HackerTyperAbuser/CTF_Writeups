@@ -1,5 +1,7 @@
 # file-run1 
 
+Writeup Author: Nguyen Nghia Hiep
+
 ## Challenge Description
 ```
 Tags: Reverse Engineering, PicoCTF2022
