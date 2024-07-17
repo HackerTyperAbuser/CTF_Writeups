@@ -1,4 +1,5 @@
 # Introspection
+Writeup Author: Nhan Nguyen
 
 ## Description
 
